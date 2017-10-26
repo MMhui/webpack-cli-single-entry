@@ -1,0 +1,6 @@
+.root{
+	display: flex;
+	background: #fff;
+	padding: 10px;
+	border: 4px solid #f00;
+}
